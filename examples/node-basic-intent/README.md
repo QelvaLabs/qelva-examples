@@ -7,7 +7,7 @@ Minimal example of sending a `TransferIntent` to a running Qelva-core backend.
 - Qelva-core backend running locally at `http://localhost:4000`
 - Node.js 18+ or 20+
 
-## 1. Run Qelva-core backend
+## Run Qelva-core backend
 
 ```bash
 git clone https://github.com/QelvaLabs/Qelva-core.git
