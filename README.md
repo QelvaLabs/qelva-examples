@@ -24,3 +24,13 @@ qelva-examples/
    └─ getting-started.md
 
 
+---
+
+```
+## Status
+
+- `examples/node-basic-intent`: **implemented** — minimal Node script calling `/intents/transfer`.
+- `examples/nextjs-basic-dashboard`: planned.
+- `examples/worker-relay-proxy`: planned.
+
+More examples will be added as Qelva-core evolves.
